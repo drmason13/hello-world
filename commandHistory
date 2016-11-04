@@ -1,0 +1,7 @@
+#typed into git bash console on windows
+
+git config --global user.name "drmason13"
+git config --global user.email "drmason13@gmail.com"
+git config --global color.ui auto
+
+
